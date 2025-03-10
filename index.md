@@ -25,4 +25,4 @@ Use relative links to any other pages or assets, [like so](./README).
 ... [like so](./README).
 ```
 
-[_View the source code for this page_](https://github.com/mfisher87/simple-site/blob/main/index.md)
+[_View the source code for this page_](https://github.com/mfisher87/simple-site/blob/main/index.md?plain=1)
