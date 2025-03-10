@@ -33,10 +33,10 @@ Within this menu, select "Use your GitHub Pages website", and click "Save change
 
 Create more pages as Markdown files.
 At this point, you need some minor knowledge about Jekyll's syntax (Liquid).
-Use [Jekyll's link syntax](https://jekyllrb.com/docs/liquid/tags/#link) to link any other pages, [like so]({% link ./README.md %}).
+Use [Jekyll's link syntax](https://jekyllrb.com/docs/liquid/tags/#link) to link any other pages, [like so]({% link README.md %}).
 
 ```markdown
-... [like so]({% link ./README.md %}).
+... [like so]({% link README.md %}).
 ```
 
 [_View the source code for this page_](https://github.com/mfisher87/simple-site/blob/main/index.md?plain=1)
