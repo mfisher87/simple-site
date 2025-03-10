@@ -40,3 +40,24 @@ Use [Jekyll's link syntax](https://jekyllrb.com/docs/liquid/tags/#link) to link 
 ```
 
 [_View the source code for this page_](https://github.com/mfisher87/simple-site/blob/main/index.md?plain=1)
+
+
+## Thoughts on Static Site Generators (SSGs)
+
+There are _many_ SSGs and which you use can be a matter of preference.
+
+I often reach for [Quarto](https://quarto.org) and recommend it to my colleagues because
+(1) it's aimed at technical publishing and (1a) can execute code cells much like a
+[Jupyter Notebook](https://jupyter.org/) and (1b) has strong citation support; (2)
+content format is very close to pure Markdown and doesn't require learning a templating
+language; (3) it supports basic features any other SSG might support, like blogging.
+
+Jekyll has been around for a long time. I don't recommend it to my colleagues because it
+requires at minimum knowing 2 new "languages" (assuming the user is already familiar
+with and prefers Markdown): Liquid, and Jekyll's configuration schema. I think of Jekyll
+as low level web development tool, not as a content publishing tool.
+
+Keep an eye out for [MySTMD](https://mystmd.org/), which uses an superset of Markdown
+called MyST to provide a stronger foundation for extensions.
+
+These opinions are [mine](https://mfisher87.github.io) alone :smile:
