@@ -19,6 +19,10 @@ Click "Save".
 **Step 2**:
 Create [Markdown](https://www.markdownguide.org/) content in your repository.
 Start with `index.md`, which will be the landing page of your GitHub pages site.
-Use relative links to any other pages or assets, [like so](./README.md).
+Use relative links to any other pages or assets, [like so](./README).
+
+```markdown
+... [like so](./README).
+```
 
 [_View the source code for this page_](https://github.com/mfisher87/simple-site/blob/main/index.md)
