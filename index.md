@@ -34,8 +34,6 @@ For example, to add more pages, you need some minor knowledge about Jekyll's syn
 Use [Jekyll's link syntax](https://jekyllrb.com/docs/liquid/tags/#link) to link any other pages,
 and in most cases you'll also need to set `baseurl` in Jekyll's [config file](https://jekyllrb.com/docs/configuration/options/#build-command-options).
 
-[_View the source code for this page_](https://github.com/mfisher87/simple-site/blob/main/index.md?plain=1)
-
 
 ## Thoughts on Static Site Generators (SSGs)
 
@@ -54,3 +52,8 @@ I think of Jekyll as low level web development tool, not as a high-level content
 Keep an eye out for [MySTMD](https://mystmd.org/), which uses an superset of Markdown called MyST to provide a stronger foundation for extensions.
 
 These opinions are [mine](https://mfisher87.github.io) alone :smile:
+
+
+---
+
+[_View the source code for this page_](https://github.com/mfisher87/simple-site/blob/main/index.md?plain=1)
